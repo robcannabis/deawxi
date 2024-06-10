@@ -37,11 +37,11 @@ client.on('ready', async () => {
     //const change = ['https://cdn.discordapp.com/attachments/1083058673640808448/1218264568183263262/213111.gif?ex=663b1b8b&is=6639ca0b&hm=fc7850e67a85b19a0281c582e686cb25dfd90039f49f700567c7f8bd2be1c3d3&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
     const change2 = [' ']; // ชื่อสลับ
-    const yyyt = ['Garena RoV']; // ชื่อ button1
-    const ddds = ['https://apps.apple.com/th/app/garena-rov-5v5-festival/id1150337432?l=th']; // ลิ้ง button1
+    const yyyt = ['IG _deawxi.zz']; // ชื่อ button1
+    const ddds = ['https://www.instagram.com/_deawxi.zz?igsh=NzVscWozd215eDA3&utm_source=qr']; // ลิ้ง button1
 
-   const iooi = ['_deawxi.zz']; // ชื่อ button 2
-   const iiio = ['https://www.instagram.com/_deawxi.zz?igsh=NzVscWozd215eDA3&utm_source=qr']; // ลิ้ง button 2
+   const iooi = ['DEAW']; // ชื่อ button 2
+   const iiio = ['https://www.facebook.com/profile.php?id=100065051402568&mibextid=LQQJ4d']; // ลิ้ง button 2
    const tyyy = yyyt[Math.floor(Math.random()*yyyt.length)]; // ชื่อ button 2
    const sddd = ddds[Math.floor(Math.random()*ddds.length)]; // ลิ้ง button 2
    const oooi = 
